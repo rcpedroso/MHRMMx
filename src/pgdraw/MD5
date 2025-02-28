@@ -1,0 +1,11 @@
+5963534c1b02e252b692bd718a8345fb *DESCRIPTION
+170ddf96c0436f81e84b2ace39774969 *NAMESPACE
+d932d6bb57e89f0e1b03d7ee1ed01cc3 *R/RcppExports.R
+2447ef7b85814b89a5b0b7eccf3b1624 *R/pgdraw-package.R
+972e76fcda148e063fe76e82c8568433 *R/pgdraw.R
+322a63ddb43c0c3ae499a3620cd09256 *inst/CITATION
+ee7997989dbf20c9b7cd979993ce9909 *man/pgdraw-package.Rd
+14c6ecbf1b4a71c0e0ddedefa7b1bc1c *man/pgdraw.Rd
+ff7a12ab583ab79807a84aeeebcf8b87 *man/pgdraw.moments.Rd
+931e743b3ea164aa80f419e38ede375d *src/RcppExports.cpp
+9107c5610d792e51144f743763b9a284 *src/rcpp_pgdraw.cpp

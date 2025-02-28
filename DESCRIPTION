@@ -1,0 +1,13 @@
+Package: mhrcmxIntDep
+Type: Package
+Title: Concise Summary of What the Package Does
+Version: 1.0
+Date: 2025-01-23
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: More about what it does (maybe more than one line).
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.3.2
+Imports: Rcpp (>= 1.0.13)
+LinkingTo: Rcpp, RcppArmadillo, RcppDist, RcppEigen
